@@ -11,6 +11,10 @@
 |nest|[![NPM version](https://img.shields.io/npm/v/iobroker.nest?style=flat-square)](https://www.npmjs.com/package/iobroker.nest)|![Installed](http://iobroker.live/badges/nest-installed.svg)|[![Downloads](https://img.shields.io/npm/dm/iobroker.nest?label=npm%20downloads&style=flat-square)](https://www.npmjs.com/package/iobroker.nest)|
 
 ### device api
+|name|npm|downloads|
+|----|---|---------|-|
+|fritzdect|[![NPM version](https://img.shields.io/npm/v/yamaha-yxc-nodejs?style=flat-square)](https://www.npmjs.com/package/yamaha-yxc-nodejs)|[![Downloads](https://img.shields.io/npm/dm/yamaha-yxc-nodejs?label=npm%20downloads&style=flat-square)](https://www.npmjs.com/package/yamaha-yxc-nodejs)|
+
 
 <!--
 **foxthefox/foxthefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
