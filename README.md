@@ -13,7 +13,7 @@
 ### device api
 |name|npm|downloads|
 |----|---|---------|
-|fritzdect|[![NPM version](https://img.shields.io/npm/v/yamaha-yxc-nodejs?style=flat-square)](https://www.npmjs.com/package/yamaha-yxc-nodejs)|[![Downloads](https://img.shields.io/npm/dm/yamaha-yxc-nodejs?label=npm%20downloads&style=flat-square)](https://www.npmjs.com/package/yamaha-yxc-nodejs)|
+|yamaha yxc|[![NPM version](https://img.shields.io/npm/v/yamaha-yxc-nodejs?style=flat-square)](https://www.npmjs.com/package/yamaha-yxc-nodejs)|[![Downloads](https://img.shields.io/npm/dm/yamaha-yxc-nodejs?label=npm%20downloads&style=flat-square)](https://www.npmjs.com/package/yamaha-yxc-nodejs)|
 
 
 <!--
