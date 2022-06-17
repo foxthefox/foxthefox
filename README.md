@@ -5,7 +5,8 @@
 |----|---|---------|-|
 |fritzdect|[![NPM version](https://img.shields.io/npm/v/iobroker.fritzdect?style=flat-square)](https://www.npmjs.com/package/iobroker.fritzdect)|![Installed](http://iobroker.live/badges/fritzdect-installed.svg)|[![Downloads](https://img.shields.io/npm/dm/iobroker.fritzdect?label=npm%20downloads&style=flat-square)](https://www.npmjs.com/package/iobroker.fritzdect)|
 |musiccast|[![NPM version](https://img.shields.io/npm/v/iobroker.musiccast?style=flat-square)](https://www.npmjs.com/package/iobroker.musiccast)|![Installed](http://iobroker.live/badges/musiccast-installed.svg)|[![Downloads](https://img.shields.io/npm/dm/iobroker.musiccast?label=npm%20downloads&style=flat-square)](https://www.npmjs.com/package/iobroker.musiccast)|
-
+|lifx|[![NPM version](https://img.shields.io/npm/v/iobroker.lifx?style=flat-square)](https://www.npmjs.com/package/iobroker.lifx)|![Installed](http://iobroker.live/badges/lifx-installed.svg)|[![Downloads](https://img.shields.io/npm/dm/iobroker.lifx?label=npm%20downloads&style=flat-square)](https://www.npmjs.com/package/iobroker.lifx)|
+|jeelink|[![NPM version](https://img.shields.io/npm/v/iobroker.jeelink?style=flat-square)](https://www.npmjs.com/package/iobroker.jeelink)|![Installed](http://iobroker.live/badges/jeelink-installed.svg)|[![Downloads](https://img.shields.io/npm/dm/iobroker.jeelink?label=npm%20downloads&style=flat-square)](https://www.npmjs.com/package/iobroker.jeelink)|
 
 ### device api
 
