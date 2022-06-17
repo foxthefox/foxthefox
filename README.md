@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![foxthefox GitHub stats](https://github-readme-stats.vercel.app/api?username=foxthefox)](https://github.com/foxthefox/github-readme-stats)
+[![foxthefox's GitHub stats](https://github-readme-stats.vercel.app/api?username=foxthefox)](https://github.com/foxthefox/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxthefox&layout=compact)](https://github.com/foxthefox/github-readme-stats)
 
 ### ioBroker adapter
 |name|npm|installed|downloads|
