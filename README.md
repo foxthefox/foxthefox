@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ### ioBroker adapter
-
+|name|npm|installed|downloads|
+|----|---|---------|-|
+|fritzdect|[![NPM version](https://img.shields.io/npm/v/iobroker.fritzdect?style=flat-square)](https://www.npmjs.com/package/iobroker.fritzdect)|![Installed](http://iobroker.live/badges/fritzdect-installed.svg)|[![Downloads](https://img.shields.io/npm/dm/iobroker.fritzdect?label=npm%20downloads&style=flat-square)](https://www.npmjs.com/package/iobroker.fritzdect)|
 ### device api
 
 <!--
