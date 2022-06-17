@@ -14,7 +14,8 @@
 |name|npm|downloads|
 |----|---|---------|
 |yamaha yxc|[![NPM version](https://img.shields.io/npm/v/yamaha-yxc-nodejs?style=flat-square)](https://www.npmjs.com/package/yamaha-yxc-nodejs)|[![Downloads](https://img.shields.io/npm/dm/yamaha-yxc-nodejs?label=npm%20downloads&style=flat-square)](https://www.npmjs.com/package/yamaha-yxc-nodejs)|
-
+|fritzdect|not yet|-|
+|s7webapi|not yet|-|
 
 <!--
 **foxthefox/foxthefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
