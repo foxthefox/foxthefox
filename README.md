@@ -33,4 +33,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![NPM version](https://img.shields.io/npm/v/iobroker.${packageName}?style=flat-square)](https://www.npmjs.com/package/iobroker.${packageName})
+![Beta](https://img.shields.io/npm/v/iobroker.${packageName}.svg?color=red&label=beta)
+![Stable](http://iobroker.live/badges/${packageName}-stable.svg)
+![Installed](http://iobroker.live/badges/${packageName}-installed.svg)
+[![Downloads](https://img.shields.io/npm/dm/iobroker.${packageName}?label=npm%20downloads&style=flat-square)](https://www.npmjs.com/package/iobroker.${packageName})
+
+
 -->
