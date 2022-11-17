@@ -17,7 +17,7 @@
 |name|npm|downloads|
 |----|---|---------|
 |yamaha-yxc-nodejs|[![NPM version](https://img.shields.io/npm/v/yamaha-yxc-nodejs?style=flat-square)](https://www.npmjs.com/package/yamaha-yxc-nodejs)|[![Downloads](https://img.shields.io/npm/dm/yamaha-yxc-nodejs?label=npm%20downloads&style=flat-square)](https://www.npmjs.com/package/yamaha-yxc-nodejs)|
-|fritzdect-aha-nodejs|not yet|-|
+|fritzdect-aha-nodejs|[![NPM version](https://img.shields.io/npm/v/fritzdect-aha-nodejs?style=flat-square)](https://www.npmjs.com/package/fritzdect-aha-nodejs)|[![Downloads](https://img.shields.io/npm/dm/fritzdect-aha-nodejslabel=npm%20downloads&style=flat-square)](https://www.npmjs.com/package/fritzdect-aha-nodejs|
 |s7webapi-nodejs|not yet|-|
 
 <!--
